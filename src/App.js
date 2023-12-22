@@ -1,10 +1,12 @@
 import './App.css';
-import Dice from './Dice.js';
+import RollDice from './RollDice';
 
 function App() {
   return (
     <div className="App">
-      <Dice />
+      <RollDice />
+
+
     </div>
   );
 }
